@@ -53,6 +53,11 @@ La base de datos contiene la tabla:
 - autor
 - curso
 
+## Diagrama de Base de Datos
+
+![Diagrama ForoHub](diagrama-forohub.png)
+
 ## Autor
 
 Proyecto desarrollado por Arely Hernández como parte del **Challenge ForoHub - Alura Latam / Oracle ONE**.
+
